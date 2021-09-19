@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejemplo/1.0.0": {
+        "dependencies": {
+          "datosReniec": "1.0.0"
+        },
+        "runtime": {
+          "Ejemplo.dll": {}
+        }
+      },
+      "datosReniec/1.0.0": {
+        "runtime": {
+          "datosReniec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "datosReniec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

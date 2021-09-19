@@ -1,0 +1,12 @@
+C:\Users\cris_\source\repos\GetReniec\datosReniec\bin\Debug\net5.0\datosReniec.deps.json
+C:\Users\cris_\source\repos\GetReniec\datosReniec\bin\Debug\net5.0\datosReniec.dll
+C:\Users\cris_\source\repos\GetReniec\datosReniec\bin\Debug\net5.0\ref\datosReniec.dll
+C:\Users\cris_\source\repos\GetReniec\datosReniec\bin\Debug\net5.0\datosReniec.pdb
+C:\Users\cris_\source\repos\GetReniec\datosReniec\obj\Debug\net5.0\datosReniec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris_\source\repos\GetReniec\datosReniec\obj\Debug\net5.0\datosReniec.AssemblyInfoInputs.cache
+C:\Users\cris_\source\repos\GetReniec\datosReniec\obj\Debug\net5.0\datosReniec.AssemblyInfo.cs
+C:\Users\cris_\source\repos\GetReniec\datosReniec\obj\Debug\net5.0\datosReniec.csproj.CoreCompileInputs.cache
+C:\Users\cris_\source\repos\GetReniec\datosReniec\obj\Debug\net5.0\datosReniec.dll
+C:\Users\cris_\source\repos\GetReniec\datosReniec\obj\Debug\net5.0\ref\datosReniec.dll
+C:\Users\cris_\source\repos\GetReniec\datosReniec\obj\Debug\net5.0\datosReniec.pdb
+C:\Users\cris_\source\repos\GetReniec\datosReniec\obj\Debug\net5.0\datosReniec.csproj.AssemblyReference.cache

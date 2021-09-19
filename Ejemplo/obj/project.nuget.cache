@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AjI0FzIVpk3y1s9JvTnMoDB1YRM8V5GRNyeCZVXT/hD+E6FjXvUMAimGNDlOlu7GphzMKXheCGKCyP3RgEQZaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cris_\\source\\repos\\GetReniec\\Ejemplo\\Ejemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
